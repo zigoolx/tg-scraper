@@ -10,6 +10,8 @@ $channels = [
     'vahidoonline',
     'mamlekate',
     'IranintlTV',
+    'asrnovin_ir',
+    'NetAccount',
     'MatinSenPaii',
     'ManotoTV',
     'configraygan',
