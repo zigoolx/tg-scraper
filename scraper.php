@@ -10,6 +10,7 @@ $channels = [
     'vahidoonline',
     'mamlekate',
     'IranintlTV',
+    'MatinSenPaii',
     'ManotoTV',
     'configraygan',
     'persianvpnhub',
