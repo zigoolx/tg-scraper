@@ -15,7 +15,10 @@ $channels = [
     'persianvpnhub',
     'jimjim8836',
     'wiki_tajrobe',
-    'SamnetInternet'
+    'SamnetInternet',
+    'ircfspace',
+    'iaghapour',
+    'persian_trend_official'
 ];
 
 $data_dir = __DIR__ . '/data';
