@@ -10,7 +10,12 @@ $channels = [
     'vahidoonline',
     'mamlekate',
     'IranintlTV',
-    'ManotoTV'
+    'ManotoTV',
+    'configraygan',
+    'persianvpnhub',
+    'jimjim8836',
+    'wiki_tajrobe',
+    'SamnetInternet'
 ];
 
 $data_dir = __DIR__ . '/data';
